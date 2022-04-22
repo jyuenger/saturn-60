@@ -9,4 +9,4 @@ The Saturn60_ISO_Split_225_Utilitarian.dxf file is NOT a universal plate, and wi
 - Split spacebar (2.75u / 1.25u / 2.25u)
 - Utilitarian bottom row (all 1u keys to the right of the spacebar)
 
-The saturn60_universal.dxf file is a universal plate, and will support all layouts a DZ60 or Titan-60 PCB can offer.
+The saturn60_universal.dxf file is a universal plate for a DZ60 or Titan-60 PCB.
